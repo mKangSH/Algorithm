@@ -219,5 +219,14 @@
     <ClCompile Include="기본수학1\2745.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="기본수학1\11005.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\2720.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\2903.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
