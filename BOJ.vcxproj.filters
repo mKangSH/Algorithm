@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\기본 수학2">
+      <UniqueIdentifier>{a487e757-7974-4566-a564-1a1aef4857a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기본 수학1">
+      <UniqueIdentifier>{2fe0f36d-da6c-49d9-95d5-992bc73c581d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{cad49085-1582-4b2b-a97d-0a32dbe7831b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적 계획법1">
+      <UniqueIdentifier>{6581d0e5-2a09-4925-9caa-f3a06911ce0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트 포스">
+      <UniqueIdentifier>{80151d71-b58c-4bb4-b750-f350ada41ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수">
+      <UniqueIdentifier>{cd599a46-3376-41c5-94f7-1967b0d917a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{7e29ce0a-ceae-4b1d-a414-be44de032462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\집합과 맵">
+      <UniqueIdentifier>{6101884e-9dfa-4d84-a364-feb98047be5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백트래킹">
+      <UniqueIdentifier>{6e42e23c-ca4e-4b50-86f7-52e6cf5b0efb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="기본수학2\2581.cpp">
+      <Filter>소스 파일\기본 수학2</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학2\1978.cpp">
+      <Filter>소스 파일\기본 수학2</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학2\11653.cpp">
+      <Filter>소스 파일\기본 수학2</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학2\1929.cpp">
+      <Filter>소스 파일\기본 수학2</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학2\4948.cpp">
+      <Filter>소스 파일\기본 수학2</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\1011.cpp">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\2775.cpp">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\10250.cpp">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\10757.cpp">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\2869.cpp">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학1\2839.cpp">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\1427.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\2108.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\2751.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\10989.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="기본수학2\9020.cpp">
+      <Filter>소스 파일\기본 수학2</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\11650.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\11651.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\1181.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\10814.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬\18870.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\1003.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\9184.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\1904.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="브루트포스\2798.cpp">
+      <Filter>소스 파일\브루트 포스</Filter>
+    </ClCompile>
+    <ClCompile Include="브루트포스\2231.cpp">
+      <Filter>소스 파일\브루트 포스</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수\10872.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수\10870.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수\17478.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수\2447.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수\11729.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="스택\10828.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="집합과 맵\10815.cpp">
+      <Filter>소스 파일\집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\9461.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\1149.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\1932.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\2579.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\1463.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\10844.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\1912.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\2156.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\11053.cpp">
+      <Filter>소스 파일\동적 계획법1</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\15649.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\15650.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\15651.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\15652.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\9663.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\2580.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\14888.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백트래킹\14889%28다시 풀것%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적계획법1\11054.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="누적 합\11659.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="심화1\10988.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="심화1\25206.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원배열\2738.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
