@@ -228,5 +228,20 @@
     <ClCompile Include="기본수학1\2903.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="약수배수와소수\5086.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수와소수\2501.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수와소수\9506.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\27323.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\1085.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
