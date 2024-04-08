@@ -243,5 +243,23 @@
     <ClCompile Include="기하 직사각형과 삼각형\1085.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\3009.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\15894.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\9063.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\10101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\5073.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하 직사각형과 삼각형\14215.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
