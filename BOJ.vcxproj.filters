@@ -288,5 +288,11 @@
     <ClCompile Include="브루트포스\1018.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="집합과 맵\1269.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="집합과 맵\11478.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
