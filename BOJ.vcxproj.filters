@@ -294,5 +294,20 @@
     <ClCompile Include="집합과 맵\11478.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="약수배수와소수\1735.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수와소수\2485.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수와소수\4134.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수와소수\17103.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수와소수\13909.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
